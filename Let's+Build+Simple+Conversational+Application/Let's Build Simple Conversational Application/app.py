@@ -9,7 +9,7 @@ import streamlit as st
 from langchain_openai import ChatOpenAI
 
 #import os
-#os.environ["OPENAI_API_KEY"] = "sk-PLfFw23dd932dfg34446dftyvvdfgdfgmvXr2dL8hVowXdt"
+#os.environ["OPENAI_API_KEY"] = ""
 
 
 from langchain.schema import (

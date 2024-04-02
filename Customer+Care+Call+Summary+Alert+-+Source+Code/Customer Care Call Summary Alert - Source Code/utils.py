@@ -6,7 +6,7 @@ from langchain.utilities.zapier import ZapierNLAWrapper
 import os
 
 # get from https://platform.openai.com/
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 # get from https://nla.zapier.com/docs/authentication/ & https://actions.zapier.com/credentials/ after logging in):
 os.environ["ZAPIER_NLA_API_KEY"] = "sk-ak-iPp3rBjaP9PpjRDpDhIXtsXsCj"
